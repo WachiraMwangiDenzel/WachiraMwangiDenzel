@@ -1,78 +1,86 @@
-# 👋 Hi, I’m Denzel! 
+<h1 align="center">Hi 👋, I'm Denzel Mwangi</h1>
+<h3 align="center">Frontend Developer in Progress | React • Next.js • JavaScript</h3>
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer** with experience in full-stack development. I love tackling complex problems, building scalable solutions, and learning new technologies.
-
----
-
-## 📊 Technologies & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  📍 Nairobi, Kenya <br/>
+  💻 Building modern web interfaces <br/>
+  🚀 On a journey to becoming a job-ready software engineer
+</p>
 
 ---
 
-## 🚀 Projects
+## 🧑‍💻 About Me
 
-### 🏠 **[My Portfolio Website](https://yourportfolio.com)**  
-A personal portfolio built with React and deployed on Netlify to showcase my projects, skills, and experience.  
-![Portfolio](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-### 🔐 **[Secure Messaging App](https://github.com/yourusername/secure-messaging)**  
-A messaging app with end-to-end encryption, built with Node.js and Socket.io, allowing users to securely chat in real-time.  
-![Messaging App](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-### 📊 **[Task Tracker App](https://github.com/yourusername/task-tracker)**  
-A full-stack task management application built with React and Express, utilizing MongoDB for persistent data storage.  
-![Task Tracker](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+- 🔭 Currently working on: **My Portfolio Website**
+- 🌱 Currently learning: **Advanced React & API Integration**
+- 💡 Interested in: **Frontend Development & UI/UX**
+- ⚡ Strength: Combining **tech skills + real-world user experience**
+- 🎯 Goal: **Land my first frontend developer role**
 
 ---
 
-## 📚 Learning & Interests
+## 🛠️ Tech Stack
 
-I'm constantly expanding my knowledge in:
-- **AI/ML**: Exploring machine learning models and AI frameworks.
-- **Web3**: Diving into blockchain and decentralized applications (DApps).
-- **Cloud Computing**: Learning cloud infrastructure, serverless computing, and microservices.
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
 
----
+### ⚙️ Frameworks & Tools
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwindcss)
 
-## 🌱 I’m currently working on...
-
-- Improving my React and TypeScript skills.
-- Building a scalable microservices architecture using Docker and Kubernetes.
-- Contributing to open-source projects that make a difference.
-
----
-
-## 📬 Contact Me
-
-- 📧 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 **LinkedIn**: [yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 **Website**: [yourwebsite.com](https://www.yourwebsite.com)
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📝 Blog & Articles
+## 📂 Projects
 
-- [How to Build a Secure Messaging App with Node.js](https://yourblog.com/secure-messaging-app)
-- [A Beginner’s Guide to Kubernetes](https://yourblog.com/kubernetes-guide)
+🚧 **Portfolio Website (In Progress)**
+- Built with React / Next.js
+- Responsive and modern UI
+- Will showcase all my work
+
+🎨 **UI Components**
+- Navbar, Sidebar, Layouts
+- Hover animations & transitions
+- Clean responsive design
+
+👉 More projects coming soon...
 
 ---
 
-## ⚡ Fun Facts
+## 📈 GitHub Stats
 
-- 🎮 I love solving puzzles and challenges, both in coding and in real life.
-- ☕ Coffee is my coding fuel!
-- 🤝 Always open to collaborating on interesting projects!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WachiraMwangiDenzel&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WachiraMwangiDenzel&theme=tokyonight" />
+</p>
 
 ---
 
-### 📈 GitHub Stats
+## 📚 Currently Learning
 
-![Loffty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+- Advanced React (Hooks, patterns)
+- API integration (fetch / axios)
+- Better project structure
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/WachiraMwangiDenzel  
+- ✉️ Email: denzelmwangi11@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+
+I build with the mindset that **good software is not just functional—it must be user-friendly.**
