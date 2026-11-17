@@ -40,6 +40,6 @@ My personal portfolio showcasing my development journey, skills, education and p
 
 - GitHub: https://github.com/WachiraMwangiDenzel
 - Portfolio: https://denzel-mwangi.vercel.app/
-- Email: denzelmwangi11@gmail.com
+
 
 *"Learn continuously. Build intentionally. Improve consistently."
